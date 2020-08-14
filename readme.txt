@@ -1,2 +1,2 @@
 create a new branch in dev
-in devv
+Creating a new branch is quick & simple.
